@@ -1,34 +1,16 @@
-\# BCPS Lab 1 - Basic CLI Commands
 
+# BCPS Lab 2 - CLI Commands and File Management
 
+## Aim
+To practise command-line operations for creating folders and managing files.
 
-\## Aim
+## Tasks Performed
+- Created Documents, Images, and Backup folders.
+- Created a text file using the echo command.
+- Viewed file contents using the type command.
+- Copied and renamed a file.
+- Moved a file to the Backup folder.
+- Verified files and folders using the dir command.
 
-To learn basic Command Prompt commands for creating and managing files and folders.
-
-
-
-\## Commands Practised
-
-\- mkdir: Create a folder
-
-\- cd: Change directory
-
-\- dir: List files and folders
-
-\- echo: Write text to a file
-
-\- type: Display file contents
-
-\- copy: Copy a file
-
-\- ren: Rename a file
-
-\- del: Delete a file
-
-
-
-\## Result
-
-I practised creating folders and files, viewing file contents, copying files, renaming files, and deleting a copy using Command Prompt.
-
+## Result
+I practised basic file and folder management operations using Windows Command Prompt.
