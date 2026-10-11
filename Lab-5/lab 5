@@ -1,0 +1,19 @@
+# BCPS Lab 5 - Mail Merge
+
+## Aim
+To create personalized invitation letters using the Mail Merge feature in LibreOffice Writer.
+
+## Software Used
+LibreOffice Writer
+
+## Procedure
+1. Opened LibreOffice Writer.
+2. Created an invitation letter.
+3. Prepared a recipient list containing names and other details.
+4. Connected the recipient list to the document using Mail Merge.
+5. Inserted merge fields into the invitation letter.
+6. Previewed the personalized letters.
+7. Generated the merged documents.
+
+## Result
+Learned how to create personalized invitation letters for multiple recipients using the Mail Merge feature in LibreOffice Writer.
